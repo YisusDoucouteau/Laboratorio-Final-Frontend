@@ -1,4 +1,4 @@
-# Laboratorio Final – Frontend (Angular)
+# Laboratorio Final  completado con lo solicitado mi inge 
 
 ## Estado del proyecto
 | Ítem                              | Descripción                                 | Estado |
