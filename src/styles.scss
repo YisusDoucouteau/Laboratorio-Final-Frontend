@@ -1,0 +1,15 @@
+/* utilidades del template (adaptadas) */
+.bg-image-full {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* separadores “full width” con altura mínima */
+.hero-1,
+.hero-2 {
+  min-height: 30rem;
+}
+
+/* opcional: ajusta el body si lo necesitas */
+body { overflow-x: hidden; }
